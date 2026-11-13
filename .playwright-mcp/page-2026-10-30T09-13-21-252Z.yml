@@ -1,0 +1,101 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: Free Shipping on Orders 500 EGP
+        - generic [ref=e12]: New Arrivals Daily
+      - generic [ref=e17]:
+        - link "+1 (800) 123-4567" [ref=e18] [cursor=pointer]:
+          - /url: tel:+1 (800) 123-4567
+        - link "support@freshcart.com" [ref=e21] [cursor=pointer]:
+          - /url: mailto:support@freshcart.com
+        - link "Usama" [ref=e25] [cursor=pointer]:
+          - /url: /profile
+        - button "Sign Out" [ref=e29] [cursor=pointer]
+    - generic [ref=e33]:
+      - link "FreshCart home" [ref=e34] [cursor=pointer]:
+        - /url: /
+        - img "FreshCart" [ref=e35]
+      - search [ref=e36]:
+        - searchbox "Search products" [ref=e37]
+        - button "Search" [ref=e38] [cursor=pointer]
+      - generic [ref=e39]:
+        - link [ref=e40] [cursor=pointer]:
+          - /url: tel:+1 (800) 123-4567
+        - generic [ref=e45]:
+          - link "Wishlist" [ref=e46] [cursor=pointer]:
+            - /url: /wishlist
+          - link "Cart" [ref=e47] [cursor=pointer]:
+            - /url: /cart
+          - link "Account" [ref=e48] [cursor=pointer]:
+            - /url: /profile
+        - button "Open menu" [ref=e49] [cursor=pointer]
+  - button "Open Next.js Dev Tools" [ref=e938] [cursor=pointer]
+  - alert [ref=e942]: Woman Shawl
+  - generic [ref=e943]:
+    - navigation "breadcrumb" [ref=e945]:
+      - list [ref=e946]:
+        - listitem [ref=e947]:
+          - link "Home" [ref=e948] [cursor=pointer]:
+            - /url: /
+        - listitem [aria-hidden] [ref=e949]
+        - listitem [ref=e952]:
+          - link "Products" [ref=e953] [cursor=pointer]:
+            - /url: /products
+        - listitem [aria-hidden] [ref=e954]
+        - listitem [ref=e957]:
+          - link "Woman Shawl" [disabled] [ref=e958]
+    - generic [ref=e959]:
+      - generic [ref=e961]:
+        - generic [ref=e962]:
+          - generic [ref=e963]:
+            - img "main-image-slider" [ref=e965]
+            - img "main-image-slider" [ref=e967]
+            - img "main-image-slider" [ref=e969]
+            - img "main-image-slider" [ref=e971]
+            - img "main-image-slider" [ref=e973]
+          - generic [ref=e974] [cursor=pointer]
+        - generic [ref=e976]:
+          - img "main-image-slider" [ref=e978]
+          - img "main-image-slider" [ref=e980]
+          - img "main-image-slider" [ref=e982]
+          - img "main-image-slider" [ref=e984]
+          - img "main-image-slider" [ref=e986]
+      - generic [ref=e988]:
+        - generic [ref=e989]:
+          - generic [ref=e990]: Women's Fashion
+          - generic [ref=e991]: DeFacto
+        - heading "Woman Shawl" [level=1] [ref=e992]
+        - generic [ref=e993]: 4 (24 reviews)
+        - paragraph [ref=e1006]: 149 EGP
+        - generic [ref=e1007]: In Stock
+        - separator [ref=e1009]
+        - paragraph [ref=e1010]: Material Polyester Blend Colour Name Multicolour Department Women
+        - generic [ref=e1011]:
+          - paragraph [ref=e1012]: Quantity
+          - generic [ref=e1013]:
+            - generic [ref=e1014]:
+              - button "Decrease quantity" [disabled] [ref=e1015]
+              - generic [ref=e1017]: "1"
+              - button "Increase quantity" [ref=e1018] [cursor=pointer]
+            - generic [ref=e1020]: 220 available
+        - generic [ref=e1021]:
+          - generic [ref=e1022]: "Total Price:"
+          - generic [ref=e1023]: 149.00 EGP
+        - generic [ref=e1024]:
+          - button "Add to Cart" [ref=e1025] [cursor=pointer]
+          - button "Buy Now" [ref=e1031] [cursor=pointer]
+        - generic [ref=e1034]:
+          - button "Add to Wishlist" [ref=e1035] [cursor=pointer]
+          - button "Share" [ref=e1038] [cursor=pointer]
+        - separator [ref=e1045]
+        - generic [ref=e1046]:
+          - generic [ref=e1054]:
+            - paragraph [ref=e1055]: Free Delivery
+            - paragraph [ref=e1056]: Orders over $50
+          - generic [ref=e1062]:
+            - paragraph [ref=e1063]: 30 Days Return
+            - paragraph [ref=e1064]: Money back
+          - generic [ref=e1070]:
+            - paragraph [ref=e1071]: Secure Payment
+            - paragraph [ref=e1072]: 100% Protected

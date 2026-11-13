@@ -1,0 +1,435 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - generic [ref=f1e6]: Free Shipping on Orders 500 EGP
+        - generic [ref=f1e12]: New Arrivals Daily
+      - generic [ref=f1e17]:
+        - link "+1 (800) 123-4567" [ref=f1e18] [cursor=pointer]:
+          - /url: tel:+1 (800) 123-4567
+        - link "support@freshcart.com" [ref=f1e21] [cursor=pointer]:
+          - /url: mailto:support@freshcart.com
+        - link "Usama" [ref=f1e25] [cursor=pointer]:
+          - /url: /profile
+        - button "Sign Out" [ref=f1e29] [cursor=pointer]
+    - generic [ref=f1e33]:
+      - link "FreshCart home" [ref=f1e34] [cursor=pointer]:
+        - /url: /
+        - img "FreshCart" [ref=f1e35]
+      - search [ref=f1e36]:
+        - searchbox "Search products" [ref=f1e37]
+        - button "Search" [ref=f1e38] [cursor=pointer]
+      - generic [ref=f1e39]:
+        - link [ref=f1e40] [cursor=pointer]:
+          - /url: tel:+1 (800) 123-4567
+        - generic [ref=f1e45]:
+          - link "Wishlist" [ref=f1e46] [cursor=pointer]:
+            - /url: /wishlist
+          - link "Cart" [ref=f1e47] [cursor=pointer]:
+            - /url: /cart
+          - link "Account" [ref=f1e48] [cursor=pointer]:
+            - /url: /profile
+        - button "Open menu" [ref=f1e49] [cursor=pointer]
+  - generic [ref=f1e50]:
+    - heading "All Products:40" [level=2] [ref=f1e51]
+    - generic [ref=f1e52]:
+      - generic [ref=f1e54]:
+        - link "Woman Shawl Woman Shawl Material Polyester Blend Colour Name Multicolour Department Women 149 EGP 4.1" [ref=f1e55] [cursor=pointer]:
+          - /url: /products/6428ebc6dc1175abc65ca0b9
+          - img "Woman Shawl" [ref=f1e56]
+          - generic [ref=f1e57]:
+            - generic [ref=f1e58]: Woman Shawl
+            - generic "Material Polyester Blend Colour Name Multicolour Department Women" [ref=f1e59]
+            - heading "149 EGP" [level=2] [ref=f1e60]
+            - generic [ref=f1e61]: "4.1"
+        - button "Add To Cart" [ref=f1e74] [cursor=pointer]
+      - generic [ref=f1e76]:
+        - link "Woman Shawl Woman Shawl Material Polyester Blend Colour Name Multicolour Department Women 149 EGP 3.9" [ref=f1e77] [cursor=pointer]:
+          - /url: /products/6428eb43dc1175abc65ca0b3
+          - img "Woman Shawl" [ref=f1e78]
+          - generic [ref=f1e79]:
+            - generic [ref=f1e80]: Woman Shawl
+            - generic "Material Polyester Blend Colour Name Multicolour Department Women" [ref=f1e81]
+            - heading "149 EGP" [level=2] [ref=f1e82]
+            - generic [ref=f1e83]: "3.9"
+        - button "Add To Cart" [ref=f1e96] [cursor=pointer]
+      - generic [ref=f1e98]:
+        - link "Woman Shawl Woman Shawl Material Polyester Blend Colour Name Multicolour Department Women 149 EGP 4" [ref=f1e99] [cursor=pointer]:
+          - /url: /products/6428ead5dc1175abc65ca0ad
+          - img "Woman Shawl" [ref=f1e100]
+          - generic [ref=f1e101]:
+            - generic [ref=f1e102]: Woman Shawl
+            - generic "Material Polyester Blend Colour Name Multicolour Department Women" [ref=f1e103]
+            - heading "149 EGP" [level=2] [ref=f1e104]
+            - generic [ref=f1e105]: "4"
+        - button "Add To Cart" [ref=f1e118] [cursor=pointer]
+      - generic [ref=f1e120]:
+        - link "Woman Shawl Woman Shawl Material Polyester Blend Colour Name Multicolour Department Women 149 EGP 4" [ref=f1e121] [cursor=pointer]:
+          - /url: /products/6428e997dc1175abc65ca0a1
+          - img "Woman Shawl" [ref=f1e122]
+          - generic [ref=f1e123]:
+            - generic [ref=f1e124]: Woman Shawl
+            - generic "Material Polyester Blend Colour Name Multicolour Department Women" [ref=f1e125]
+            - heading "149 EGP" [level=2] [ref=f1e126]
+            - generic [ref=f1e127]: "4"
+        - button "Add To Cart" [ref=f1e140] [cursor=pointer]
+      - generic [ref=f1e142]:
+        - link "Woman Shawl Woman Shawl Material Polyester Blend Colour Name Beige Department Women 349 EGP 4.6" [ref=f1e143] [cursor=pointer]:
+          - /url: /products/6428e884dc1175abc65ca096
+          - img "Woman Shawl" [ref=f1e144]
+          - generic [ref=f1e145]:
+            - generic [ref=f1e146]: Woman Shawl
+            - generic "Material Polyester Blend Colour Name Beige Department Women" [ref=f1e147]
+            - heading "349 EGP" [level=2] [ref=f1e148]
+            - generic [ref=f1e149]: "4.6"
+        - button "Add To Cart" [ref=f1e162] [cursor=pointer]
+      - generic [ref=f1e164]:
+        - link "Woman Bordeaux Long Sleeve Blouse BORDEAUX Woman Bordeaux Long Sleeve Blouse BORDEAUX ShellFabric1 Cotton 65% Polyester 35% 499 EGP 4.1" [ref=f1e165] [cursor=pointer]:
+          - /url: /products/6428e7ecdc1175abc65ca090
+          - img "Woman Bordeaux Long Sleeve Blouse BORDEAUX" [ref=f1e166]
+          - generic [ref=f1e167]:
+            - generic [ref=f1e168]: Woman Bordeaux Long Sleeve Blouse BORDEAUX
+            - generic "ShellFabric1 Cotton 65% Polyester 35%" [ref=f1e169]
+            - heading "499 EGP" [level=2] [ref=f1e170]
+            - generic [ref=f1e171]: "4.1"
+        - button "Add To Cart" [ref=f1e184] [cursor=pointer]
+      - generic [ref=f1e186]:
+        - link "Woman Brown Long Sleeve Tunic LT.CAMEL Woman Brown Long Sleeve Tunic LT.CAMEL ShellFabric1 Cotton 65% Polyester 35% 499 EGP 3.8" [ref=f1e187] [cursor=pointer]:
+          - /url: /products/6428e778dc1175abc65ca08a
+          - img "Woman Brown Long Sleeve Tunic LT.CAMEL" [ref=f1e188]
+          - generic [ref=f1e189]:
+            - generic [ref=f1e190]: Woman Brown Long Sleeve Tunic LT.CAMEL
+            - generic "ShellFabric1 Cotton 65% Polyester 35%" [ref=f1e191]
+            - heading "499 EGP" [level=2] [ref=f1e192]
+            - generic [ref=f1e193]: "3.8"
+        - button "Add To Cart" [ref=f1e206] [cursor=pointer]
+      - generic [ref=f1e208]:
+        - link "Woman Standart Fit Knitted Cardigan Woman Standart Fit Knitted Cardigan Material Polyester Blend Colour Name Beige Department Women 499 EGP 4.4" [ref=f1e209] [cursor=pointer]:
+          - /url: /products/6428e5e6dc1175abc65ca084
+          - img "Woman Standart Fit Knitted Cardigan" [ref=f1e210]
+          - generic [ref=f1e211]:
+            - generic [ref=f1e212]: Woman Standart Fit Knitted Cardigan
+            - generic "Material Polyester Blend Colour Name Beige Department Women" [ref=f1e213]
+            - heading "499 EGP" [level=2] [ref=f1e214]
+            - generic [ref=f1e215]: "4.4"
+        - button "Add To Cart" [ref=f1e228] [cursor=pointer]
+      - generic [ref=f1e230]:
+        - link "Relaxed Fit Knitted Joggers Lilac Relaxed Fit Knitted Joggers Lilac Colour Name Pink Department Women Material Composition Polyester Blend 499 EGP 4" [ref=f1e231] [cursor=pointer]:
+          - /url: /products/6428e509dc1175abc65ca07e
+          - img "Relaxed Fit Knitted Joggers Lilac" [ref=f1e232]
+          - generic [ref=f1e233]:
+            - generic [ref=f1e234]: Relaxed Fit Knitted Joggers Lilac
+            - generic "Colour Name Pink Department Women Material Composition Polyester Blend" [ref=f1e235]
+            - heading "499 EGP" [level=2] [ref=f1e236]
+            - generic [ref=f1e237]: "4"
+        - button "Add To Cart" [ref=f1e250] [cursor=pointer]
+      - generic [ref=f1e252]:
+        - link "Woman Socks Woman Socks Colour Name Pink Department Women Material Composition Polyester Blend 199 EGP 4.1" [ref=f1e253] [cursor=pointer]:
+          - /url: /products/6428e479dc1175abc65ca078
+          - img "Woman Socks" [ref=f1e254]
+          - generic [ref=f1e255]:
+            - generic [ref=f1e256]: Woman Socks
+            - generic "Colour Name Pink Department Women Material Composition Polyester Blend" [ref=f1e257]
+            - heading "199 EGP" [level=2] [ref=f1e258]
+            - generic [ref=f1e259]: "4.1"
+        - button "Add To Cart" [ref=f1e272] [cursor=pointer]
+      - generic [ref=f1e274]:
+        - link "Woman Karma Socks Multicolour Woman Karma Socks Multicolour Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular 199 EGP 3.2" [ref=f1e275] [cursor=pointer]:
+          - /url: /products/6428e319dc1175abc65ca06d
+          - img "Woman Karma Socks Multicolour" [ref=f1e276]
+          - generic [ref=f1e277]:
+            - generic [ref=f1e278]: Woman Karma Socks Multicolour
+            - generic "Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular fit Wash according to care label instructions" [ref=f1e279]: Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular
+            - heading "199 EGP" [level=2] [ref=f1e280]
+            - generic [ref=f1e281]: "3.2"
+        - button "Add To Cart" [ref=f1e294] [cursor=pointer]
+      - generic [ref=f1e296]:
+        - link "Logo T-Shirt Green Logo T-Shirt Green Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular 744 EGP 3.6" [ref=f1e297] [cursor=pointer]:
+          - /url: /products/6428dfa0dc1175abc65ca067
+          - img "Logo T-Shirt Green" [ref=f1e298]
+          - generic [ref=f1e299]:
+            - generic [ref=f1e300]: Logo T-Shirt Green
+            - generic "Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular fit Wash according to care label instructions" [ref=f1e301]: Soft and comfortable cotton fabric Crew neck and short sleeves Comfortable, regular
+            - heading "744 EGP" [level=2] [ref=f1e302]
+            - generic [ref=f1e303]: "3.6"
+        - button "Add To Cart" [ref=f1e316] [cursor=pointer]
+      - generic [ref=f1e318]:
+        - link "Orca Leather Boots Anthracite Orca Leather Boots Anthracite Genuine and smooth leather upper Secure lace-ups with side zipper closure Slightly 4829 EGP 4.2" [ref=f1e319] [cursor=pointer]:
+          - /url: /products/6428def9dc1175abc65ca061
+          - img "Orca Leather Boots Anthracite" [ref=f1e320]
+          - generic [ref=f1e321]:
+            - generic [ref=f1e322]: Orca Leather Boots Anthracite
+            - generic "Genuine and smooth leather upper Secure lace-ups with side zipper closure Slightly cushioned footbed provides comfort Patterned chunky outsole provides traction and grip" [ref=f1e323]: Genuine and smooth leather upper Secure lace-ups with side zipper closure Slightly
+            - heading "4829 EGP" [level=2] [ref=f1e324]
+            - generic [ref=f1e325]: "4.2"
+        - button "Add To Cart" [ref=f1e338] [cursor=pointer]
+      - generic [ref=f1e340]:
+        - link "Softride Enzo NXT CASTLEROCK-High Risk R Softride Enzo NXT CASTLEROCK-High Risk R Sole Material Rubber Colour Name RED Department Men 2999 EGP 4.3" [ref=f1e341] [cursor=pointer]:
+          - /url: /products/6428de2adc1175abc65ca05b
+          - img "Softride Enzo NXT CASTLEROCK-High Risk R" [ref=f1e342]
+          - generic [ref=f1e343]:
+            - generic [ref=f1e344]: Softride Enzo NXT CASTLEROCK-High Risk R
+            - generic "Sole Material Rubber Colour Name RED Department Men" [ref=f1e345]
+            - heading "2999 EGP" [level=2] [ref=f1e346]
+            - generic [ref=f1e347]: "4.3"
+        - button "Add To Cart" [ref=f1e360] [cursor=pointer]
+      - generic [ref=f1e362]:
+        - link "ESS Big Logo Hoodie TR Puma Black ESS Big Logo Hoodie TR Puma Black Material Combination Colour Name black Department Men 2649 EGP 4.2" [ref=f1e363] [cursor=pointer]:
+          - /url: /products/6428dd2edc1175abc65ca055
+          - img "ESS Big Logo Hoodie TR Puma Black" [ref=f1e364]
+          - generic [ref=f1e365]:
+            - generic [ref=f1e366]: ESS Big Logo Hoodie TR Puma Black
+            - generic "Material Combination Colour Name black Department Men" [ref=f1e367]
+            - heading "2649 EGP" [level=2] [ref=f1e368]
+            - generic [ref=f1e369]: "4.2"
+        - button "Add To Cart" [ref=f1e382] [cursor=pointer]
+      - generic [ref=f1e384]:
+        - link "Sportswear Club Graphic Hoodie Blue Sportswear Club Graphic Hoodie Blue Soft and lightweight knitted fabric Kangaroo pocket to front Wash according to 2449 EGP 4.2" [ref=f1e385] [cursor=pointer]:
+          - /url: /products/6428d132dc1175abc65ca04f
+          - img "Sportswear Club Graphic Hoodie Blue" [ref=f1e386]
+          - generic [ref=f1e387]:
+            - generic [ref=f1e388]: Sportswear Club Graphic Hoodie Blue
+            - generic "Soft and lightweight knitted fabric Kangaroo pocket to front Wash according to care label instructions Nike signature branding detail" [ref=f1e389]: Soft and lightweight knitted fabric Kangaroo pocket to front Wash according to
+            - heading "2449 EGP" [level=2] [ref=f1e390]
+            - generic [ref=f1e391]: "4.2"
+        - button "Add To Cart" [ref=f1e404] [cursor=pointer]
+      - generic [ref=f1e406]:
+        - link "NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black Socks are highly comfort, stretchable and will manage moisture Ribbed elasticated 1079 EGP 4.1" [ref=f1e407] [cursor=pointer]:
+          - /url: /products/6428cf07dc1175abc65ca049
+          - img "NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black" [ref=f1e408]
+          - generic [ref=f1e409]:
+            - generic [ref=f1e410]: NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black
+            - generic "Socks are highly comfort, stretchable and will manage moisture Ribbed elasticated mouths that ensure snug fitting Elasticated leg band which ensures easy wearability Carefully stitched to lend a neat finish Thick terry sole provides comfort and impact absorption" [ref=f1e411]: Socks are highly comfort, stretchable and will manage moisture Ribbed elasticated
+            - heading "1079 EGP" [level=2] [ref=f1e412]
+            - generic [ref=f1e413]: "4.1"
+        - button "Add To Cart" [ref=f1e426] [cursor=pointer]
+      - generic [ref=f1e428]:
+        - link "Court Tennis Track Pants Black Court Tennis Track Pants Black Soft and sustainable polyester fabric Elastic waist for comfortable fit Multiple pockets 3159 EGP 4.3" [ref=f1e429] [cursor=pointer]:
+          - /url: /products/6428ce55dc1175abc65ca043
+          - img "Court Tennis Track Pants Black" [ref=f1e430]
+          - generic [ref=f1e431]:
+            - generic [ref=f1e432]: Court Tennis Track Pants Black
+            - generic "Soft and sustainable polyester fabric Elastic waist for comfortable fit Multiple pockets for quick storage Wash according to care label instructions Nike signature branding detail" [ref=f1e433]: Soft and sustainable polyester fabric Elastic waist for comfortable fit Multiple pockets
+            - heading "3159 EGP" [level=2] [ref=f1e434]
+            - generic [ref=f1e435]: "4.3"
+        - button "Add To Cart" [ref=f1e448] [cursor=pointer]
+      - generic [ref=f1e450]:
+        - link "React Live Sneakers Black/White-Dk Smoke Grey React Live Sneakers Black/White-Dk Smoke Grey Comfortable and soft cotton blend fabric Ribbed crew neck and short 4639 EGP 4.1" [ref=f1e451] [cursor=pointer]:
+          - /url: /products/6428cd70dc1175abc65ca03d
+          - img "React Live Sneakers Black/White-Dk Smoke Grey" [ref=f1e452]
+          - generic [ref=f1e453]:
+            - generic [ref=f1e454]: React Live Sneakers Black/White-Dk Smoke Grey
+            - generic "Comfortable and soft cotton blend fabric Ribbed crew neck and short sleeves adidas signature branding print Wash according to care label instructions" [ref=f1e455]: Comfortable and soft cotton blend fabric Ribbed crew neck and short
+            - heading "4639 EGP" [level=2] [ref=f1e456]
+            - generic [ref=f1e457]: "4.1"
+        - button "Add To Cart" [ref=f1e470] [cursor=pointer]
+      - generic [ref=f1e472]:
+        - link "Essentials Embroidered Linear Logo T-Shirt Navy Essentials Embroidered Linear Logo T-Shirt Navy Comfortable and soft cotton blend fabric Ribbed crew neck and short 749 EGP 4.2" [ref=f1e473] [cursor=pointer]:
+          - /url: /products/6428cbd5dc1175abc65ca037
+          - img "Essentials Embroidered Linear Logo T-Shirt Navy" [ref=f1e474]
+          - generic [ref=f1e475]:
+            - generic [ref=f1e476]: Essentials Embroidered Linear Logo T-Shirt Navy
+            - generic "Comfortable and soft cotton blend fabric Ribbed crew neck and short sleeves adidas signature branding print Wash according to care label instructions" [ref=f1e477]: Comfortable and soft cotton blend fabric Ribbed crew neck and short
+            - heading "749 EGP" [level=2] [ref=f1e478]
+            - generic [ref=f1e479]: "4.2"
+        - button "Add To Cart" [ref=f1e492] [cursor=pointer]
+      - generic [ref=f1e494]:
+        - link "Salah Track Top Salah Track Top Material Cotton Blend Colour Name night indigo Department Men 1749 EGP 5" [ref=f1e495] [cursor=pointer]:
+          - /url: /products/6428cb19dc1175abc65ca031
+          - img "Salah Track Top" [ref=f1e496]
+          - generic [ref=f1e497]:
+            - generic [ref=f1e498]: Salah Track Top
+            - generic "Material Cotton Blend Colour Name night indigo Department Men" [ref=f1e499]
+            - heading "1749 EGP" [level=2] [ref=f1e500]
+            - generic [ref=f1e501]: "5"
+        - button "Add To Cart" [ref=f1e514] [cursor=pointer]
+      - generic [ref=f1e516]:
+        - link "Adicolor Classics Beckenbauer Primeblue Track Top Adicolor Classics Beckenbauer Primeblue Track Top Material Cotton Blend Colour Name night indigo Department Men 2379 EGP 4.7" [ref=f1e517] [cursor=pointer]:
+          - /url: /products/6428ca68dc1175abc65ca02b
+          - img "Adicolor Classics Beckenbauer Primeblue Track Top" [ref=f1e518]
+          - generic [ref=f1e519]:
+            - generic [ref=f1e520]: Adicolor Classics Beckenbauer Primeblue Track Top
+            - generic "Material Cotton Blend Colour Name night indigo Department Men" [ref=f1e521]
+            - heading "2379 EGP" [level=2] [ref=f1e522]
+            - generic [ref=f1e523]: "4.7"
+        - button "Add To Cart" [ref=f1e536] [cursor=pointer]
+      - generic [ref=f1e538]:
+        - link "Duramo 10 Running Shoes Duramo 10 Running Shoes Clean, fresh, understated style that takes your breath away. That's 1999 EGP 3.5" [ref=f1e539] [cursor=pointer]:
+          - /url: /products/6428c962dc1175abc65ca025
+          - img "Duramo 10 Running Shoes" [ref=f1e540]
+          - generic [ref=f1e541]:
+            - generic [ref=f1e542]: Duramo 10 Running Shoes
+            - generic "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole." [ref=f1e543]: Clean, fresh, understated style that takes your breath away. That's
+            - heading "1999 EGP" [level=2] [ref=f1e544]
+            - generic [ref=f1e545]: "3.5"
+        - button "Add To Cart" [ref=f1e558] [cursor=pointer]
+      - generic [ref=f1e560]:
+        - link "Hoops 3.0 Low Classic Vintage Shoes Hoops 3.0 Low Classic Vintage Shoes Clean, fresh, understated style that takes your breath away. That's 1629 EGP 4" [ref=f1e561] [cursor=pointer]:
+          - /url: /products/6428c6a9dc1175abc65ca01f
+          - img "Hoops 3.0 Low Classic Vintage Shoes" [ref=f1e562]
+          - generic [ref=f1e563]:
+            - generic [ref=f1e564]: Hoops 3.0 Low Classic Vintage Shoes
+            - generic "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole." [ref=f1e565]: Clean, fresh, understated style that takes your breath away. That's
+            - heading "1629 EGP" [level=2] [ref=f1e566]
+            - generic [ref=f1e567]: "4"
+        - button "Add To Cart" [ref=f1e580] [cursor=pointer]
+      - generic [ref=f1e582]:
+        - 'link "Galaxy 6 Running Shoes Galaxy 6 Running Shoes Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack 1629 EGP 0" [ref=f1e583] [cursor=pointer]':
+          - /url: /products/6428c5b7dc1175abc65ca019
+          - img "Galaxy 6 Running Shoes" [ref=f1e584]
+          - generic [ref=f1e585]:
+            - generic [ref=f1e586]: Galaxy 6 Running Shoes
+            - 'generic "Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack Quantity Single Pack Size Single Model Number W21770Z8-S7N-823090 Model Name W21770Z8-S7N-823090" [ref=f1e587]': "Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack"
+            - heading "1629 EGP" [level=2] [ref=f1e588]
+            - generic [ref=f1e589]: "0"
+        - button "Add To Cart" [ref=f1e602] [cursor=pointer]
+      - generic [ref=f1e604]:
+        - 'link "Slim Fit Long Sleeve Dobby Men''s Shirt Slim Fit Long Sleeve Dobby Men''s Shirt Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack 549 EGP 4" [ref=f1e605] [cursor=pointer]':
+          - /url: /products/6428c3b8dc1175abc65ca00e
+          - img "Slim Fit Long Sleeve Dobby Men's Shirt" [ref=f1e606]
+          - generic [ref=f1e607]:
+            - generic [ref=f1e608]: Slim Fit Long Sleeve Dobby Men's Shirt
+            - 'generic "Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack Quantity Single Pack Size Single Model Number W21770Z8-S7N-823090 Model Name W21770Z8-S7N-823090" [ref=f1e609]': "Material Cotton Blend Colour Name BLUE Department Men Material Composition MAIN FABRIC: 64% Cotton 36% Polyester Item Pack"
+            - heading "549 EGP" [level=2] [ref=f1e610]
+            - generic [ref=f1e611]: "4"
+        - button "Add To Cart" [ref=f1e624] [cursor=pointer]
+      - generic [ref=f1e626]:
+        - 'link "Crew Neck Long Sleeve Men''s Knitwear Sweater Crew Neck Long Sleeve Men''s Knitwear Sweater Material Cotton Colour Name NAVY Department Men Material Composition MAIN FABRIC: 100% Cotton 449 EGP 4.3" [ref=f1e627] [cursor=pointer]':
+          - /url: /products/6428c320dc1175abc65ca008
+          - img "Crew Neck Long Sleeve Men's Knitwear Sweater" [ref=f1e628]
+          - generic [ref=f1e629]:
+            - generic [ref=f1e630]: Crew Neck Long Sleeve Men's Knitwear Sweater
+            - 'generic "Material Cotton Colour Name NAVY Department Men Material Composition MAIN FABRIC: 100% Cotton" [ref=f1e631]'
+            - heading "449 EGP" [level=2] [ref=f1e632]
+            - generic [ref=f1e633]: "4.3"
+        - button "Add To Cart" [ref=f1e646] [cursor=pointer]
+      - generic [ref=f1e648]:
+        - link "Crew Neck Long Sleeve Striped Men's Tricot Sweater Crew Neck Long Sleeve Striped Men's Tricot Sweater Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM 599 EGP 0" [ref=f1e649] [cursor=pointer]:
+          - /url: /products/6428c0fedc1175abc65c9ffd
+          - img "Crew Neck Long Sleeve Striped Men's Tricot Sweater" [ref=f1e650]
+          - generic [ref=f1e651]:
+            - generic [ref=f1e652]: Crew Neck Long Sleeve Striped Men's Tricot Sweater
+            - generic "Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN" [ref=f1e653]: Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM
+            - heading "599 EGP" [level=2] [ref=f1e654]
+            - generic [ref=f1e655]: "0"
+        - button "Add To Cart" [ref=f1e668] [cursor=pointer]
+      - generic [ref=f1e670]:
+        - link "Crew Neck Long Sleeve Men's Tricot Sweater with Color Block Crew Neck Long Sleeve Men's Tricot Sweater with Color Block Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM 549 EGP 5" [ref=f1e671] [cursor=pointer]:
+          - /url: /products/6428c042dc1175abc65c9ff7
+          - img "Crew Neck Long Sleeve Men's Tricot Sweater with Color Block" [ref=f1e672]
+          - generic [ref=f1e673]:
+            - generic [ref=f1e674]: Crew Neck Long Sleeve Men's Tricot Sweater with Color Block
+            - generic "Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN" [ref=f1e675]: Tricot fabric, Tricot fabric, Ribbed ankles and bottom WASH AT MAXIMUM
+            - heading "549 EGP" [level=2] [ref=f1e676]
+            - generic [ref=f1e677]: "5"
+        - button "Add To Cart" [ref=f1e690] [cursor=pointer]
+      - generic [ref=f1e692]:
+        - link "Polo Collar Short Sleeve Color Block Men's Knitwear Sweater Polo Collar Short Sleeve Color Block Men's Knitwear Sweater 100% cotton fabric 349 EGP 3" [ref=f1e693] [cursor=pointer]:
+          - /url: /products/6428bf40dc1175abc65c9ff1
+          - img "Polo Collar Short Sleeve Color Block Men's Knitwear Sweater" [ref=f1e694]
+          - generic [ref=f1e695]:
+            - generic [ref=f1e696]: Polo Collar Short Sleeve Color Block Men's Knitwear Sweater
+            - generic "100% cotton fabric" [ref=f1e697]
+            - heading "349 EGP" [level=2] [ref=f1e698]
+            - generic [ref=f1e699]: "3"
+        - button "Add To Cart" [ref=f1e712] [cursor=pointer]
+      - generic [ref=f1e714]:
+        - 'link "Crew Neck Long Sleeve Striped Men''s Knitwear Sweater Crew Neck Long Sleeve Striped Men''s Knitwear Sweater Colour Name BLUE Department Men Material Composition MAIN FABRIC: 100% Cotton Lining Material Cotton Model Number W20952Z8-CTD Model Name W20952Z8-CTD 549 EGP 4" [ref=f1e715] [cursor=pointer]':
+          - /url: /products/6428be2bdc1175abc65c9fe6
+          - img "Crew Neck Long Sleeve Striped Men's Knitwear Sweater" [ref=f1e716]
+          - generic [ref=f1e717]:
+            - generic [ref=f1e718]: Crew Neck Long Sleeve Striped Men's Knitwear Sweater
+            - 'generic "Colour Name BLUE Department Men Material Composition MAIN FABRIC: 100% Cotton Lining Material Cotton Model Number W20952Z8-CTD Model Name W20952Z8-CTD" [ref=f1e719]'
+            - heading "549 EGP" [level=2] [ref=f1e720]
+            - generic [ref=f1e721]: "4"
+        - button "Add To Cart" [ref=f1e734] [cursor=pointer]
+      - generic [ref=f1e736]:
+        - 'link "Standard Pattern Plaid Fleece Men''s Pajamas Set Standard Pattern Plaid Fleece Men''s Pajamas Set Material Polyester Colour Name Multicolour Department Men Material Composition MAIN FABRIC: 100% Polyester Model Number W2BK93Z8-RQN Model Name W2BK93Z8-RQN-BLACK 699 EGP 4.5" [ref=f1e737] [cursor=pointer]':
+          - /url: /products/6428bd0bdc1175abc65c9fdb
+          - img "Standard Pattern Plaid Fleece Men's Pajamas Set" [ref=f1e738]
+          - generic [ref=f1e739]:
+            - generic [ref=f1e740]: Standard Pattern Plaid Fleece Men's Pajamas Set
+            - 'generic "Material Polyester Colour Name Multicolour Department Men Material Composition MAIN FABRIC: 100% Polyester Model Number W2BK93Z8-RQN Model Name W2BK93Z8-RQN-BLACK" [ref=f1e741]'
+            - heading "699 EGP" [level=2] [ref=f1e742]
+            - generic [ref=f1e743]: "4.5"
+        - button "Add To Cart" [ref=f1e756] [cursor=pointer]
+      - generic [ref=f1e758]:
+        - link "Slim Fit Stand Collar Men's Leather Look Coat Slim Fit Stand Collar Men's Leather Look Coat Colour Name Black Department Men Model Number W21199Z8-CVL Model Name W21199Z8-CVL 1499 EGP 3.7" [ref=f1e759] [cursor=pointer]:
+          - /url: /products/6428bbdedc1175abc65c9fce
+          - img "Slim Fit Stand Collar Men's Leather Look Coat" [ref=f1e760]
+          - generic [ref=f1e761]:
+            - generic [ref=f1e762]: Slim Fit Stand Collar Men's Leather Look Coat
+            - generic "Colour Name Black Department Men Model Number W21199Z8-CVL Model Name W21199Z8-CVL" [ref=f1e763]
+            - heading "1499 EGP" [level=2] [ref=f1e764]
+            - generic [ref=f1e765]: "3.7"
+        - button "Add To Cart" [ref=f1e778] [cursor=pointer]
+      - generic [ref=f1e780]:
+        - 'link "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black Parental Controls: manage responsible internet access for your children Guest Network|: 1699 EGP 3.9" [ref=f1e781] [cursor=pointer]':
+          - /url: /products/6408e98e6406cd15828e8f30
+          - img "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black" [ref=f1e782]
+          - generic [ref=f1e783]:
+            - generic [ref=f1e784]: Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black
+            - 'generic "Parental Controls: manage responsible internet access for your children Guest Network|: provides separate access for guests while securing the home network Firewall Security: supports DoS, SPI Firewall, IP Addressing/Domain Filter, IP/MAC Address Binding Quality of Service: prioritizes network traffic by device or application, IPv6: compatible with IPv6 (Internet Protocol version 6) IPTV IGMP Proxy/Snooping: supports Bridge and Tag VLAN for smooth IPTV application, Multilingual Interface: provides hassle-free configuration in six languages (EN/DE/IT/TR/RU/PO)" [ref=f1e785]': "Parental Controls: manage responsible internet access for your children Guest Network|:"
+            - heading "1699 EGP" [level=2] [ref=f1e786]
+            - generic [ref=f1e787]: "3.9"
+        - button "Add To Cart" [ref=f1e800] [cursor=pointer]
+      - generic [ref=f1e802]:
+        - link "PIXMA G3420 Multi-Function Inkjet Printer Black PIXMA G3420 Multi-Function Inkjet Printer Black photos with a maximum print-color resolution of 4800 x 1200 5999 EGP 4.1" [ref=f1e803] [cursor=pointer]:
+          - /url: /products/6408e5fd6406cd15828e8f28
+          - img "PIXMA G3420 Multi-Function Inkjet Printer Black" [ref=f1e804]
+          - generic [ref=f1e805]:
+            - generic [ref=f1e806]: PIXMA G3420 Multi-Function Inkjet Printer Black
+            - generic "photos with a maximum print-color resolution of 4800 x 1200 dpi using FINE printhead technology. AirPrint allows you to print directly from your iPhone iPad or iPod touch wirelessly while built-in Wi-Fi technology allows you to print and scan wirelessly from virtually anywhere around your small office Environmentally friendly, Auto Duplex Printing allows you to automatically print on both sides of paper to reduce paper usage. Full HD Movie Print turns fav Innovative intelligence helps to achieve consistent results Easy and smooth to use as per convenience It is designed keeping your choice and requirement in mind" [ref=f1e807]: photos with a maximum print-color resolution of 4800 x 1200
+            - heading "5999 EGP" [level=2] [ref=f1e808]
+            - generic [ref=f1e809]: "4.1"
+        - button "Add To Cart" [ref=f1e822] [cursor=pointer]
+      - generic [ref=f1e824]:
+        - 'link "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black 24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200) digic 19699 EGP 3.9" [ref=f1e825] [cursor=pointer]':
+          - /url: /products/6408e43a6406cd15828e8f22
+          - img "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black" [ref=f1e826]
+          - generic [ref=f1e827]:
+            - generic [ref=f1e828]: EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black
+            - 'generic "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200) digic 8 image processor with auto lighting optimizer improved dual pixel cmos af and eye detection af (still/movie servo af support) 4k uhd 24p and hd 120p for slow motion vari-angle touchscreen lcd convenient for vlogging and various composition" [ref=f1e829]': "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200) digic"
+            - heading "19699 EGP" [level=2] [ref=f1e830]
+            - generic [ref=f1e831]: "3.9"
+        - button "Add To Cart" [ref=f1e844] [cursor=pointer]
+      - generic [ref=f1e846]:
+        - link "PS5 DualSense Charging Station PS5 DualSense Charging Station Charge up to two DualSense Wireless Controllers at the same 1045 EGP 4.3" [ref=f1e847] [cursor=pointer]:
+          - /url: /products/6408e1266406cd15828e8f1c
+          - img "PS5 DualSense Charging Station" [ref=f1e848]
+          - generic [ref=f1e849]:
+            - generic [ref=f1e850]: PS5 DualSense Charging Station
+            - generic "Charge up to two DualSense Wireless Controllers at the same time without having to connect them to your PlayStation 5 Console Your Controllers charge as quickly as when connected to your PS5 Console – so you can free up USB ports without sacrificing performance Dock your DualSense Wireless Controllers quickly and easily with the charging station’s click-in design and leave them to charge at your convenience" [ref=f1e851]: Charge up to two DualSense Wireless Controllers at the same
+            - heading "1045 EGP" [level=2] [ref=f1e852]
+            - generic [ref=f1e853]: "4.3"
+        - button "Add To Cart" [ref=f1e866] [cursor=pointer]
+      - generic [ref=f1e868]:
+        - link "Galaxy Buds 2 Graphite Galaxy Buds 2 Graphite Galaxy Buds 2 come up to 20 hours of playback 3999 EGP 3.6" [ref=f1e869] [cursor=pointer]:
+          - /url: /products/6408e05d6406cd15828e8f16
+          - img "Galaxy Buds 2 Graphite" [ref=f1e870]
+          - generic [ref=f1e871]:
+            - generic [ref=f1e872]: Galaxy Buds 2 Graphite
+            - generic "Galaxy Buds 2 come up to 20 hours of playback time with active noise cancellation (ANC) turned on The TWS earphones appear to have a total of three microphones and an integrated voice recording unit for high quality calls The charging case offers an additional 15 hours worth of battery life Galaxy Buds2 ear buds take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band Galaxy Buds2 have a comfortable, low profile design that's 10% smaller and lighter than Galaxy Buds+; You may get to the end of your playlist before you remember you're wearing them at all The earbuds’ 3 microphones and noise reduction technology ensures voices are transmitted crisply and clearly, whether you're chatting with a friend or leading a high stakes conference call" [ref=f1e873]: Galaxy Buds 2 come up to 20 hours of playback
+            - heading "3999 EGP" [level=2] [ref=f1e874]
+            - generic [ref=f1e875]: "3.6"
+        - button "Add To Cart" [ref=f1e888] [cursor=pointer]
+      - generic [ref=f1e890]:
+        - link "WH-CH510 Wireless On-Ear Bluetooth Headphones Black WH-CH510 Wireless On-Ear Bluetooth Headphones Black Bluetooth wireless technology for unrestricted movement Up to 35 hours of 1949 EGP 4.1" [ref=f1e891] [cursor=pointer]:
+          - /url: /products/6408de536406cd15828e8f10
+          - img "WH-CH510 Wireless On-Ear Bluetooth Headphones Black" [ref=f1e892]
+          - generic [ref=f1e893]:
+            - generic [ref=f1e894]: WH-CH510 Wireless On-Ear Bluetooth Headphones Black
+            - generic "Bluetooth wireless technology for unrestricted movement Up to 35 hours of battery life for all-day power and quick charging Easy hands-free calling and voice assistant commands with microphone Compact and lightweight, swivel ear cups allow easy portability Simple button press connects you to your smartphone's voice assistant to get directions, play music Hear more detail with 30mm Driver Unit" [ref=f1e895]: Bluetooth wireless technology for unrestricted movement Up to 35 hours of
+            - heading "1949 EGP" [level=2] [ref=f1e896]
+            - generic [ref=f1e897]: "4.1"
+        - button "Add To Cart" [ref=f1e910] [cursor=pointer]
+      - generic [ref=f1e912]:
+        - link "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White NVIDIA GeForce RTX 3060, 6 GB GDDR6 15.6\", FHD 1920x1080, 120Hz, 42960 EGP 3.6" [ref=f1e913] [cursor=pointer]:
+          - /url: /products/6408da1c6406cd15828e8f0a
+          - img "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White" [ref=f1e914]
+          - generic [ref=f1e915]:
+            - generic [ref=f1e916]: Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White
+            - generic "NVIDIA GeForce RTX 3060, 6 GB GDDR6 15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border 16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel 512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio Office Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key" [ref=f1e917]: NVIDIA GeForce RTX 3060, 6 GB GDDR6 15.6", FHD 1920x1080, 120Hz,
+            - heading "42960 EGP" [level=2] [ref=f1e918]
+            - generic [ref=f1e919]: "3.6"
+        - button "Add To Cart" [ref=f1e932] [cursor=pointer]
