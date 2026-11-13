@@ -5,7 +5,7 @@ import authImage from "@/assets/auth.png";
 const benefits = [
   { label: "Free Delivery", icon: Truck },
   { label: "Secure Payment", icon: ShieldCheck },
-  { label: "24/7 Support", icon: Clock3 },
+  { label: "24/7 Support",   icon: Clock3 },
 ];
 
 export default function StaticAuth() {
