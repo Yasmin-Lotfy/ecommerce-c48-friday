@@ -11,7 +11,7 @@ import {
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb"
 import ProductSlider from "@/components/products/product-slider";
-export default async function ProductDetails({params}: Promise<{ id: string }>) {
+export default async function ProductDetails({params}: {params : Promise<{ id: string }>}) {
 
     const {id} =await  params;
 

@@ -28,6 +28,9 @@ export async function addProductToCart(productId: string) {
 
 export async function getLoggedUserCart() {
   const token = await getOutToken();
+  if(!token){
+    return null
+  }
 
   const response = await fetch(`${baseUrl}/api/v2/cart`, {
     method: "GET",
@@ -43,7 +46,9 @@ export async function getLoggedUserCart() {
 
 export async function removeProductFromCart(productId: string) {
   const token = await getOutToken();
-
+  if(!token){
+    return null
+  }
   const response = await fetch(`${baseUrl}/api/v2/cart/${productId}`, {
     method: "DELETE",
 
@@ -58,7 +63,9 @@ export async function removeProductFromCart(productId: string) {
 
 export async function clearProductFromCart() {
   const token = await getOutToken();
-
+  if(!token){
+    return null
+  }
   const response = await fetch(`${baseUrl}/api/v2/cart`, {
     method: "DELETE",
 
@@ -73,7 +80,9 @@ export async function clearProductFromCart() {
 
 export async function updateroductToCart(productId: string, count: number) {
   const token = await getOutToken();
-
+  if(!token){
+    return null
+  }
   const response = await fetch(`${baseUrl}/api/v2/cart/${productId}`, {
     method: "PUT",
 
